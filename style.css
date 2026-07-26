@@ -1,0 +1,200 @@
+/* Reset */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Body */
+
+body{
+    background:#f4f6f9;
+    color:#333;
+    line-height:1.6;
+}
+
+/* Header */
+
+header{
+    background:#2c7a7b;
+    color:white;
+    text-align:center;
+    padding:25px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.2);
+}
+
+header h1{
+    font-size:2rem;
+    margin-bottom:8px;
+}
+
+header p{
+    font-size:1rem;
+}
+
+/* Messages */
+
+.message{
+    width:90%;
+    margin:20px auto;
+    padding:15px;
+    text-align:center;
+    border-radius:8px;
+    font-weight:bold;
+    background:#fff3cd;
+    color:#856404;
+}
+
+.hidden{
+    display:none;
+}
+
+/* Summary Cards */
+
+.summary-section{
+    width:90%;
+    margin:25px auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card h3{
+    color:#2c7a7b;
+    margin-bottom:10px;
+}
+
+.card p{
+    font-size:28px;
+    font-weight:bold;
+}
+
+/* Sections */
+
+section{
+    width:95%;
+    margin:30px auto;
+}
+
+section h2{
+    margin-bottom:15px;
+    color:#2c7a7b;
+}
+
+/* Table */
+
+.table-container{
+    overflow-x:auto;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    min-width:900px;
+}
+
+thead{
+    background:#2c7a7b;
+    color:white;
+}
+
+th{
+    padding:12px;
+    text-align:center;
+}
+
+td{
+    padding:10px;
+    text-align:center;
+    border-bottom:1px solid #ddd;
+}
+
+tbody tr:nth-child(even){
+    background:#f8f9fa;
+}
+
+tbody tr:hover{
+    background:#e9f5f5;
+}
+
+/* Status */
+
+.status-normal{
+    color:green;
+    font-weight:bold;
+}
+
+.status-warning{
+    color:red;
+    font-weight:bold;
+}
+
+/* Footer */
+
+footer{
+    background:#2c7a7b;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:40px;
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+header h1{
+    font-size:1.5rem;
+}
+
+header p{
+    font-size:0.9rem;
+}
+
+.card p{
+    font-size:22px;
+}
+
+table{
+    min-width:700px;
+}
+
+}
+
+@media(max-width:480px){
+
+.summary-section{
+    grid-template-columns:1fr;
+}
+
+header{
+    padding:20px;
+}
+
+header h1{
+    font-size:1.3rem;
+}
+
+section{
+    width:98%;
+}
+
+}

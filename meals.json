@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2026-07-01",
+    "school": "Government Primary School - A",
+    "enrolled": 120,
+    "present": 110,
+    "meals": 110,
+    "rice": 22,
+    "dal": 3.3,
+    "organiser": "Lakshmi"
+  },
+  {
+    "date": "2026-07-02",
+    "school": "Government Primary School - A",
+    "enrolled": 120,
+    "present": 108,
+    "meals": 111,
+    "rice": 22.5,
+    "dal": 3.4,
+    "organiser": "Lakshmi"
+  },
+  {
+    "date": "2026-07-03",
+    "school": "Government Primary School - B",
+    "enrolled": 100,
+    "present": 92,
+    "meals": 92,
+    "rice": 18.4,
+    "dal": 2.8,
+    "organiser": "Revathi"
+  },
+  {
+    "date": "2026-07-04",
+    "school": "Government Primary School - B",
+    "enrolled": 100,
+    "present": 90,
+    "meals": 95,
+    "rice": 20,
+    "dal": 3,
+    "organiser": "Revathi"
+  },
+  {
+    "date": "2026-07-05",
+    "school": "Government Primary School - C",
+    "enrolled": 80,
+    "present": 74,
+    "meals": 74,
+    "rice": 15,
+    "dal": 2.2,
+    "organiser": "Priya"
+  },
+  {
+    "date": "2026-07-06",
+    "school": "Government Primary School - C",
+    "enrolled": 80,
+    "present": 72,
+    "meals": 72,
+    "rice": 14.5,
+    "dal": 2.1,
+    "organiser": ""
+  },
+  {
+    "date": "2026-07-07",
+    "school": "Government Primary School - D",
+    "enrolled": 140,
+    "present": 132,
+    "meals": 132,
+    "rice": 26.5,
+    "dal": 4,
+    "organiser": "Meena"
+  },
+  {
+    "date": "2026-07-08",
+    "school": "Government Primary School - D",
+    "enrolled": 140,
+    "present": 130,
+    "meals": 130,
+    "rice": 28,
+    "dal": 4.2,
+    "organiser": "Meena"
+  },
+  {
+    "date": "2026-07-09",
+    "school": "Government Primary School - A",
+    "enrolled": 120,
+    "present": 109,
+    "meals": 109,
+    "rice": 21.8,
+    "dal": 3.2,
+    "organiser": "Lakshmi"
+  },
+  {
+    "date": "2026-07-10",
+    "school": "Government Primary School - B",
+    "enrolled": 100,
+    "present": 91,
+    "meals": 91,
+    "rice": 18.3,
+    "dal": 2.7,
+    "organiser": "Revathi"
+  },
+  {
+    "date": "2026-07-11",
+    "school": "Government Primary School - C",
+    "enrolled": 80,
+    "present": 75,
+    "meals": 75,
+    "rice": 15,
+    "dal": 2.3,
+    "organiser": "Priya"
+  },
+  {
+    "date": "2026-07-12",
+    "school": "Government Primary School - D",
+    "enrolled": 140,
+    "present": 129,
+    "meals": 133,
+    "rice": 27,
+    "dal": 4.1,
+    "organiser": "Meena"
+  },
+  {
+    "date": "2026-07-13",
+    "school": "Government Primary School - A",
+    "enrolled": 120,
+    "present": 112,
+    "meals": 112,
+    "rice": 22.4,
+    "dal": 3.3,
+    "organiser": "Lakshmi"
+  },
+  {
+    "date": "2026-07-14",
+    "school": "Government Primary School - B",
+    "enrolled": 100,
+    "present": 89,
+    "meals": 89,
+    "rice": "",
+    "dal": 2.7,
+    "organiser": "Revathi"
+  },
+  {
+    "date": "2026-07-15",
+    "school": "Government Primary School - C",
+    "enrolled": 80,
+    "present": 73,
+    "meals": 73,
+    "rice": 14.8,
+    "dal": 2.2,
+    "organiser": "Priya"
+  }
+]
